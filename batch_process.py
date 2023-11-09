@@ -5,11 +5,11 @@ import requests
 # 获取当前脚本所在的目录
 script_directory = os.path.dirname(os.path.abspath(__file__))
 
-# ToDo 设置API密钥和API基础URL
+# TODO 设置API密钥和API基础URL
 api_key = ""
 api_base_url = ""
 
-# ToDo 设置文本分段长度
+# TODO 设置文本分段长度
 text_segment_length = 3000
 
 # TODO 设置最大重试次数
